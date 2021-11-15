@@ -7,3 +7,5 @@ Clone the reposetory, if you want to take a look at it in a text editor or somet
 ```bash
 git clone https://github.com/CollinEdward/LittlePythonGUIGuide..git
 ```
+
+![Screenshot](Preview.png)

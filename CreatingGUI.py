@@ -8,6 +8,4 @@ from tkinter import * # Here we import everything (*) from tkinter
 root = Tk()
 
  # The mainloop is so the window keep running until you press on x or exit the script from terminal
-root.mainloop() 
-
-
+root.mainloop()
