@@ -25,7 +25,6 @@ button_2 = Button(root, text="Resized!!", height=2, width=20).pack()
 entry_name = Entry(root).pack()
 
 
-
  # The mainloop is so the window keep running until you press on x or exit the script from terminal
 root.mainloop() 
 
