@@ -3,7 +3,7 @@
 This is a short GUI Guide with python, learning how to use the simple and easy moduel built into python, named tkinter.
 This short tutorial / Guide shows the fundamental and beginner things to know when creating a GUI in python, with the easy moduel tkinter.
 
-![Screenshot](python-logo-master-v3-TM.png)
+![Screenshot](Other-python-icon.png)
 
 Download python
 
