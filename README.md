@@ -13,7 +13,9 @@ GNU/Linux (apt)
 ```bash
 sudo apt update
 sudo apt install python3
-```GNU/Linux (pacman)```bash
+```
+GNU/Linux (pacman)
+```bash
 sudo apt -Syu
 sudo pacman -S python3
 ```
