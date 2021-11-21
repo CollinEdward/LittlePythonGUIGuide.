@@ -29,3 +29,8 @@ git clone https://github.com/CollinEdward/LittlePythonGUIGuide..git
 
 ![Screenshot](Preview.png)
 
+What is tkinter ? 
+
+https://www.activestate.com/resources/quick-reads/what-is-tkinter-used-for-and-how-to-install-it/
+
+Tkinter is the de facto way in Python to create Graphical User interfaces (GUIs) and is included in all standard Python Distributions. In fact, it's the only framework built into the Python standard library.
